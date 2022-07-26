@@ -1,0 +1,36 @@
+type git
+
+
+and check whether git is in your system or not
+
+
+go to download git
+
+for version windows 32
+
+
+then use
+git clone url  for copying projects or files
+
+for eg git clone https://github.com/john-smilga/react-projects.git
+https://github.com/innovativewebpage/signupfinal1.git
+
+git add
+
+git add filename.js
+
+git status
+
+
+ git add continuation git status
+
+git commit
+
+git commit -m "msg"
+
+
+git remote rm origin
+
+
+
+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
